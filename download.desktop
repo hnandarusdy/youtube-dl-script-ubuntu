@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Download youtube
+Comment=Herman is awesome
+Exec=/home/dev/Music/youtube/download.sh
+Icon=
+Terminal=true
+Type=Application
